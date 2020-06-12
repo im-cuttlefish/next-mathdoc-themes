@@ -1,7 +1,7 @@
 {
   "name": "next-mathdoc-themes",
   "version": "0.0.1",
-  "description": "",
+  "description": "Themes of next-mathdoc (CSS Modules)",
   "author": "im-cuttlefish",
   "license": "MIT"
 }
