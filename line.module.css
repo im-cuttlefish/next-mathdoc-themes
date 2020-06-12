@@ -1,0 +1,34 @@
+.theoremContainer {
+  margin: 1rem 0;
+  border-left: solid 1px #000;
+}
+
+.theoremTitle {
+  padding: 0 0.7rem;
+  font-size: 1.3rem;
+  border-bottom: solid 1px #000;
+}
+
+.theoremContent {
+  padding: 0.7rem;
+}
+
+.proofContainer {
+  margin: 1rem 0;
+}
+
+.proofEndMark {
+  float: right;
+}
+
+@media (max-width: 750px) {
+  .theoremContent {
+    overflow-x: scroll;
+    white-space: normal;
+  }
+
+  .proofContent {
+    overflow-x: scroll;
+    white-space: normal;
+  }
+}
